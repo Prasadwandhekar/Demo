@@ -1,4 +1,4 @@
 # Demo
 This is my second Git Repository.
 <br>
-auther - prasad wandhekar(scoe)
+auther - prasad wandhekar(scoe)clear
